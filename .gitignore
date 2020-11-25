@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-*UniMate.jks
+*.jks
 
 # Log file
 *.log
