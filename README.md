@@ -1,2 +1,4 @@
 # UniMate
-UniMate is a react native app that helps in class registration and networking for Georgia Tech students.
+UniMate is a mobile application that helps in easy class registration and networking. It solved the problem of finding information on various classes by consolidating data from websites like Rate My Professor and Course Critique. Further, it has a database of Georgia Tech students with information like hometown, activities involved in, etc. Other students who want information about college in general or some specific clubs can ask to talk to them for a small fee. This fee is used to cover deployment costs, database costs and pay mentors. The service helps in reducing anxiety among incoming freshmen as they connect to students already on campus. This will also boost participation in on-campus clubs.
+# Download
+To run the application, go to http://onelink.to/qrdqgk and download it. Its available on both Android and IOS.
